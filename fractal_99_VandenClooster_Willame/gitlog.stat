@@ -1,0 +1,25 @@
+commit cc0d0869750ea0473a6c88328e6842cf8da5cfe4
+Author: Antoine <antoine.vandenclooster@student.uclouvain.be>
+Date:   Fri May 11 17:15:22 2018 +0200
+
+    derniere version
+
+ fractal_99_VandenClooster_Willame/Makefile         |  21 +
+ fractal_99_VandenClooster_Willame/gitlog.stat      |  28 ++
+ .../libfractal/Makefile                            |  15 +
+ .../libfractal/fractal.c                           |  69 +++
+ .../libfractal/fractal.h                           | 120 ++++++
+ .../libfractal/tools.c                             | 286 ++++++++++++
+ fractal_99_VandenClooster_Willame/main.c           | 477 +++++++++++++++++++++
+ fractal_99_VandenClooster_Willame/rapport.pdf      | Bin 0 -> 124452 bytes
+ fractal_99_VandenClooster_Willame/tests/test.c     |  78 ++++
+ 9 files changed, 1094 insertions(+)
+
+commit 82ccd87d721f7ca7c1afc9cdaff6eec86d7555a4
+Author: avdclooster <38433106+avdclooster@users.noreply.github.com>
+Date:   Fri May 11 17:04:10 2018 +0200
+
+    Initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
